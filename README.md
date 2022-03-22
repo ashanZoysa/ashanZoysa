@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Ashan Zoysa 🍀</h1>
+<h1 align="center">Hey There 👋, I'm Ashan Zoysa 🍀</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashanzoysa&label=Profile%20views&color=0e75b6&style=flat" alt="ashanzoysa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashanzoysa" alt="ashanzoysa" /></a> </p>
