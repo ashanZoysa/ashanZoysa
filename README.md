@@ -38,13 +38,16 @@ develop my knowledge and skills.
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on  ElectroGrid (EG) Project  
+- 🔭 I’m currently working on  **ElectroGrid (EG) Project ** 
   
 
-- 🌱 I’m currently learning REST API  
+- 🌱 I’m currently learning ** REST API ** 
   
 
-- 🤝 I’m looking for help with Java – JAX-RS (Jersey)  
+- 🤝 I’m looking for help with **Java – JAX-RS (Jersey) ** 
+  
+  
+- 📫 How to reach me **ravinduazoysa@gmail.com**  
   
 
 - ⚡ Fun fact: I use tabs over spaces...  
@@ -67,6 +70,8 @@ develop my knowledge and skills.
 
 
 <br/>  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashanzoysa" alt="ashanzoysa" /></a> </p>
+<br/>
 
 
 ## Github Stats  
