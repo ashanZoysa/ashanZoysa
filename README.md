@@ -38,13 +38,13 @@ develop my knowledge and skills.
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on  **ElectroGrid (EG) Project ** 
+- 🔭 I’m currently working on  **ElectroGrid (EG) Project** 
   
 
-- 🌱 I’m currently learning ** REST API ** 
+- 🌱 I’m currently learning **REST API** 
   
 
-- 🤝 I’m looking for help with **Java – JAX-RS (Jersey) ** 
+- 🤝 I’m looking for help with **Java – JAX-RS (Jersey)** 
   
   
 - 📫 How to reach me **ravinduazoysa@gmail.com**  
