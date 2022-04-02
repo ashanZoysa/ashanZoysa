@@ -34,6 +34,8 @@ develop my knowledge and skills.
 
 <br/>  
 
+ <img width="540" height="330" src="https://github.com/SasithaLakshan/ashanZoysa/blob/main/dev.gif">
+
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
