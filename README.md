@@ -80,7 +80,6 @@ develop my knowledge and skills.
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ashanZoysa&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
   
 </td><td valign="top" width="50%">
 
